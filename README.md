@@ -1,4 +1,4 @@
-### Hi there I'm Fathoni, Welcome to my profile👋
+### Hi there I'm Fathoni, I come from the Information Technology department. Welcome to my profile👋
 
 <!--
 **fathonialfajri/fathonialfajri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
